@@ -1,1 +1,1 @@
-# CS-335-Python-Lab
+This python file solve variables and Data types, lists and loop, dictionaries and conditional, function problems.
